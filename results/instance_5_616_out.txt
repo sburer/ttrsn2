@@ -1,0 +1,13 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2022 The MathWorks, Inc.
+                  R2022b (9.13.0.2049777) 64-bit (maci64)
+                              August 24, 2022
+
+[Warning: Name is nonexistent or not a directory:
+/Users/sburer/Documents/MATLAB/mosek/10.0/toolbox/r2017aom] 
+ 
+For online documentation, see https://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> 
